@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1288014415" started-at="2020-09-24T23:06:20 PDT" finished-at="2020-10-09T20:53:15 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1288014415" started-at="2020-09-24T23:06:20 PDT" finished-at="2020-10-09T20:53:15 PDT">
+      <class name="com.api.test.item.CreateItems">
+        <test-method status="PASS" signature="createItem()[pri:0, instance:com.api.test.item.CreateItems@74f0ea28]" name="createItem" duration-ms="3991" started-at="2020-09-24T23:06:20 PDT" finished-at="2020-09-24T23:06:24 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createItem -->
+        <test-method status="PASS" signature="getItem()[pri:0, instance:com.api.test.item.CreateItems@74f0ea28]" name="getItem" duration-ms="1288010104" started-at="2020-09-24T23:06:24 PDT" finished-at="2020-10-09T20:53:14 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getItem -->
+      </class> <!-- com.api.test.item.CreateItems -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
